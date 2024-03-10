@@ -1,0 +1,72 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>WEEK03_Practice</title>
+
+</head>
+<body background="https://s3cdn.yourator.co/articles/banners/000/000/152/default/9ce32aa67ac3bb1113a6f86380dafdfa52d38141.png" cover>
+<center> <font size ="30", color = "black"><b>履歷 Portfolio</b></font></center>
+<hr color="black"width="100%" align ="center">
+<h1>自我介紹</h1>
+<ul>
+    <li>姓名：陳柏睿</li>
+    <li>學校：國立高雄大學</li>
+    <li>科系：資訊管理學系</li>
+    <li>興趣：看書、聽音樂、追星</li>
+    <li>個性：活潑外向、喜歡和他人交流</li>
+    <li>特質：做事有條理、謹慎</li>
+    <li>語言：<font color="red">英文</font>、<font color="red">德文</font></li>
+</ul>
+<h2>個人資料</h2>
+<h3>
+<p>
+就業狀態：xxxxxx<br/>電話：xxxxxx<br/>E-mail：xxxxxx<br/>戶籍地址：xxxxxx<br/>通訊地址：xxxxxx<br/>
+</p> 
+</h3>
+<hr color="black" width="20%" align="left">
+
+<h2>求職條件</h2>
+<p>
+希望性質：xxxxxx<br/>上班時段：日班<br/>可上班日：錄取後隨時可上班<br/>希望待遇：面議<br/>希望地點：台北市、新北市、新竹市<br/>遠端工作：對遠端工作有意願<br/>
+希望職稱：網頁開發全端工程師、系統研發工程師、<br/>
+希望職類：全端、前端及後端工程師、數據分析師<br/>
+工作內容：<br/>
+<ul>
+    <li>Backend：xxxxxx</li>
+    <li>Frontend：xxxxxx</li>
+    <li>Nice to have：xxxxxx</li>
+    <li>Responsibility：xxxxxx</li>
+    <li>語言條件：英文(中)</li>
+</ul>
+</p>
+<hr color="black" width="20%" align="left">
+
+<h2>語言能力</h2>
+<p>
+<u><font size="4" color="red">英文</font></u><br/>
+TOEIC(多益測驗)：825<br/>
+</p>
+<hr color="black" width="20%" align="left">
+
+<h2>專長</h2>
+<p>
+<u><font size="4" color="red">Python</font></u><br/>
+藉由<font color="red">Python</font>投資股票模擬分析器<br/>
+考取基礎<font color="red">Python</font>語言能力證照<br/>
+</p>
+<hr color="black" width="20%" align="left">
+
+<h2>自傳</h2>
+<p>
+<h3>【關於我】</h3>
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+<h3>【興趣專長】</h3>
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+<h3>【求學經歷】</h3>
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+<h3>【未來期許】</h3>
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+</p>
+</body>
+</html>
