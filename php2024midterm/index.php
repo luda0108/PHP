@@ -5,6 +5,9 @@
 </head>
 
 <body>
+    <font size="6">
+        <b>高大資管論文投稿系統</b>
+    </font>
     <?php
     error_reporting(0);
     session_start();
