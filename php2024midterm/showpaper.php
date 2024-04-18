@@ -9,11 +9,11 @@
     <form action="#" method="post">
     <font size="4">
             論文標題:
-            <input type="text" name="title" value="" placeholder="請輸入您的論文標題"><br />
+            <input type="text" name="title" value="" placeholder="請輸入您的論文標題" required><br />
             作者姓名：
-            <input type="text" name="name" value="" placeholder="請輸入您的名字"><br/>
+            <input type="text" name="name" value="" placeholder="請輸入您的名字" required><br/>
             作者Email：
-            <input type="text" name="contact" value="">
+            <input type="text" name="contact" value="" required>
             <br><br>
             電子檔上傳：
             <input type="file" name="sFile"><br/>
