@@ -6,10 +6,6 @@ if(!$link)
 {
     die("無法開啟資料庫<br/>");
 }
-else
-{
-    echo "開啟成功<br/>";
-}
 $name=$_POST["name"];
 echo "姓名：".$name."<br>";
 
